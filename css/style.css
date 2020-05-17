@@ -55,6 +55,11 @@ body {
   justify-content: center;
 }
 
+.main-menu__link {
+  text-decoration: none;
+  color: #fff;
+}
+
 .header__port {
   width: 10%;
   height: auto;
